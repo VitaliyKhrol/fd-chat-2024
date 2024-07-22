@@ -1,0 +1,40 @@
+.message-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+}
+
+
+.message-autor-image {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+
+.text-wrapper {
+    background-color: beige;
+    border: 1px solid pink;
+    border-radius: 3px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.username{
+    font-size: 0.8em;
+    color: grey
+
+}
+
+.message-body{
+    font-size: 1em;
+    color: black;
+
+}
+.message-date{
+    font-size: 0.6em;
+    color: lightseagreen
+
+}

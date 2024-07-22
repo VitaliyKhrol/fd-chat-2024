@@ -1,0 +1,6 @@
+
+.container {
+    background-color:rgb(227, 226, 224);
+    flex-grow: 1;
+    overflow-y: scroll;
+}
